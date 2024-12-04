@@ -7,6 +7,9 @@
 <a href="https://opgc.me/#/users/bemaru" target="_blank"><img src="https://prd-opgc-api.opgc.me/githubs/users/bemaru/tag/?theme=basic" /></a>
 
 <!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bemaru&hide=html,scss,css,javascript,c)](https://github.com/bemaru)
+-->
+<!--
 **bemaru/bemaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
