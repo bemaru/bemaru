@@ -9,6 +9,10 @@
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bemaru&hide=html,scss,css,javascript,c)](https://github.com/bemaru)
 -->
+
+<!-- [![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bemaru)](https://github.com/bemaru)
+-->
+
 <!--
 **bemaru/bemaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
