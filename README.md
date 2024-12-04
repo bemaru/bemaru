@@ -1,4 +1,6 @@
 ## Hi there 👋
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbemaru)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jihoon-kwak-94bb08334/)](https://www.linkedin.com/in/jihoon-kwak-94bb08334/)
 
 <!--
 **bemaru/bemaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
