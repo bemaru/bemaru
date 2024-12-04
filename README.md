@@ -2,6 +2,8 @@
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbemaru)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jihoon-kwak-94bb08334/)](https://www.linkedin.com/in/jihoon-kwak-94bb08334/)
 
+![Jihoon Kwak's GitHub stats](https://github-readme-stats.vercel.app/api?username=bemaru&show_icons=true&theme=dracula)
+
 <a href="https://opgc.me/#/users/bemaru" target="_blank"><img src="https://prd-opgc-api.opgc.me/githubs/users/bemaru/tag/?theme=basic" /></a>
 
 <!--
